@@ -1,26 +1,6 @@
 {
-    "name": "Test Token",
-    "symbol": "NEWCOIN",
+    "name": "Test JPG",
+    "symbol": "TEST",
     "description": "Test Coin description",
-    "image": "https://coinrace.online/token/image-256x256.png",
-    "external_url": "https://coinrace.online",
-    "attributes": [
-      { "trait_type": "Purpose", "value": "Testing" },
-      { "trait_type": "Version", "value": "1.0" }
-    ],
-    "socials": {
-      "twitter": "https://twitter.com/yourproject",
-      "discord": "https://discord.gg/yourproject",
-      "telegram": "https://t.me/yourproject"
-    },
-    "properties": {
-      "files": [
-        {
-          "uri": "https://coinrace.online/token/image-256x256.png",
-          "type": "image/png"
-        }
-      ],
-      "category": "image"
-    }
-  }
-  
+    "image": "https://e7.pngegg.com/pngimages/273/154/png-clipart-cats-cats.png"
+}
