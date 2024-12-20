@@ -1,0 +1,26 @@
+{
+    "name": "Test Token",
+    "symbol": "NEWCOIN",
+    "description": "Test Coin description",
+    "image": "https://i.natgeofe.com/n/4cebbf38-5df4-4ed0-864a-4ebeb64d33a4/NationalGeographic_1468962_square.jpg",
+    "external_url": "https://coinrace.online",
+    "attributes": [
+      { "trait_type": "Purpose", "value": "Testing" },
+      { "trait_type": "Version", "value": "1.0" }
+    ],
+    "socials": {
+      "twitter": "https://twitter.com/yourproject",
+      "discord": "https://discord.gg/yourproject",
+      "telegram": "https://t.me/yourproject"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://coinrace.online/token/image-256x256.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+  
